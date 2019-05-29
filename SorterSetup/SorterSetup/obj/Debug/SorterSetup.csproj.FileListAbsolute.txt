@@ -1,0 +1,57 @@
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\SorterSetup.exe.config
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\SorterSetup.exe
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\SorterSetup.pdb
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Filter.resources
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Form1.resources
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Properties.Resources.resources
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.csproj.GenerateResource.Cache
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.exe
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.pdb
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Form2.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\SorterSetup.exe
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\SorterSetup.exe.config
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\IronPython.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\IronPython.Modules.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Container.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Filter.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Form1.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Form2.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Properties.Resources.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.csproj.GenerateResource.Cache
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.exe
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.pdb
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\SorterSetup.pdb
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\IKVM.Reflection.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\IronPython.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\IronPython.Modules.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Keser\Winodws Form App\SorterSetup\SorterSetup\obj\Debug\SorterSetup.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\SorterSetup.exe.config
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.exe
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.pdb
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\SorterSetup.exe
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\SorterSetup.pdb
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IKVM.Reflection.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.Modules.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.Modules.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Container.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Filter.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Form1.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Form2.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.Properties.Resources.resources
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\obj\Debug\SorterSetup.csproj.GenerateResource.Cache
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.Wpf.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.Wpf.xml
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.SQLite.dll
+C:\Users\Luka\Desktop\DA - 2 semestar\Nyarko, Filko - Projekt\SorterSetup\SorterSetup\bin\Debug\IronPython.SQLite.xml

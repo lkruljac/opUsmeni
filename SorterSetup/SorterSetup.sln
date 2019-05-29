@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorterSetup", "SorterSetup\SorterSetup.csproj", "{6D3EFE4A-E026-4E60-A80B-346D91E7ECDE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RandWithPython", "RandWithPython\RandWithPython.pyproj", "{C8E58E70-242F-49BB-AD71-C906DF90F539}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{04F871C5-D9CC-4D24-A921-2A9B85EB8936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D3EFE4A-E026-4E60-A80B-346D91E7ECDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3EFE4A-E026-4E60-A80B-346D91E7ECDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3EFE4A-E026-4E60-A80B-346D91E7ECDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3EFE4A-E026-4E60-A80B-346D91E7ECDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E58E70-242F-49BB-AD71-C906DF90F539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E58E70-242F-49BB-AD71-C906DF90F539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F871C5-D9CC-4D24-A921-2A9B85EB8936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F871C5-D9CC-4D24-A921-2A9B85EB8936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

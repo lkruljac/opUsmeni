@@ -1,0 +1,18 @@
+<SorterEnvironmentParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <colors>
+    <string>Blue</string>
+    <string>Red</string>
+    <string>Yelow</string>
+    <string>Green</string>
+    <string>Gray</string>
+  </colors>
+  <shapes>
+    <string>Cube</string>
+    <string>Sphere</string>
+    <string>Cuboid</string>
+    <string>Tetrahedron</string>
+  </shapes>
+  <conteinerNumber>6</conteinerNumber>
+  <minWeight>1</minWeight>
+  <maxWeight>9999</maxWeight>
+</SorterEnvironmentParameters>

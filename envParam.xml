@@ -1,0 +1,16 @@
+<?xml version= "1.0"?>
+<colors>
+	<color name="color">Red</color>
+	<color name="color">Green</color>
+	<color name="color">Blue</color>
+</colors>
+
+<shapes>
+	<color name="Shape">Sphere</color>
+	<color name="Shape">Cube</color>
+	<color name="Shape">Cuboid</color>
+</shapes>
+
+<conteiners>
+	<count>6</count>
+</conteiners>
